@@ -1,1 +1,2 @@
-echo "Hello, world!!"
+print 'Hello, world!!'
+print 'Hello, Nasser'
